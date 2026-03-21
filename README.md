@@ -1,2 +1,3 @@
-# open-video-platform-ddde
-A video hosting platform for modern development workflows
+# Open Video Platform Ddde
+
+A video hosting platform for modern development workflows.
